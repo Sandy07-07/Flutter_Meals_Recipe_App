@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+The Meals Recipe App is a mobile app built using Flutter. The app provides users with a wide selection of recipes for Italian, French, German, Asian, Indian and many more. we can also apply Filters for searching meals such as Gluten free, Vegan, Vegetarian and many more. We can also select meals as our favourites and mark them with a star mark.
 
 ## Getting Started
 
